@@ -9,10 +9,8 @@ public class AgentController : MonoBehaviour
     void Start()
     {
         agent = GetComponent<NavMeshAgent>(); // Получаем компонент NavMeshAgent
-    }
-
-    void Update()
-    {
         agent.SetDestination(targetPoint.position); // Устанавливаем цель для агента
     }
+
+    void Update() { }
 }

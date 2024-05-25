@@ -66,7 +66,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Lab2\Agent.cs" />
     <Compile Include="Assets\Scripts\keyBoardControl.cs" />
-    <Compile Include="Assets\Scripts\AI\AgentController.cs" />
+    <Compile Include="Assets\Scripts\Lab3\BlockMovement.cs" />
+    <Compile Include="Assets\Scripts\Lab3\AgentController.cs" />
     <Compile Include="Assets\Scripts\Lab2\AreaInfo.cs" />
     <Compile Include="Assets\Scripts\Lab2\Cartographer.cs" />
     <Compile Include="Assets\Scripts\Lab2\PlatformScript.cs" />
